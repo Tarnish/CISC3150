@@ -1,0 +1,57 @@
+Circle Checker:
+Enter the coordinates of the first circle. Type it like this -> X Y : 5 5
+Enter the radius of the first circle: 5
+Enter the coordinates of the second circle. Type it like this -> X Y : 5 5
+Enter the radius of the second circle: 5
+Circle 1: (5.000000, 5.000000) R = 5.000000
+Circle 2: (5.000000, 5.000000) R = 5.000000
+Distance = 0.000000
+The circles are exactly the same.
+Would you like to enter another set (Y/N)? N will exit the program. : Y
+Enter the coordinates of the first circle. Type it like this -> X Y : 3 3
+Enter the radius of the first circle: 3
+Enter the coordinates of the second circle. Type it like this -> X Y : 10 10
+Enter the radius of the second circle: 2
+Circle 1: (3.000000, 3.000000) R = 3.000000
+Circle 2: (10.000000, 10.000000) R = 2.000000
+Distance = 9.899495
+The circles are separate from each other.
+Would you like to enter another set (Y/N)? N will exit the program. : Y
+Enter the coordinates of the first circle. Type it like this -> X Y : 4 8
+Enter the radius of the first circle: 2
+Enter the coordinates of the second circle. Type it like this -> X Y : 4 4
+Enter the radius of the second circle: 2
+Circle 1: (4.000000, 8.000000) R = 2.000000
+Circle 2: (4.000000, 4.000000) R = 2.000000
+Distance = 4.000000
+The circles are touching each other.
+Would you like to enter another set (Y/N)? N will exit the program. : Y
+Enter the coordinates of the first circle. Type it like this -> X Y : 5 5
+Enter the radius of the first circle: 1
+Enter the coordinates of the second circle. Type it like this -> X Y : 5 5
+Enter the radius of the second circle: 5
+Circle 1: (5.000000, 5.000000) R = 1.000000
+Circle 2: (5.000000, 5.000000) R = 5.000000
+Distance = 0.000000
+Circle 1 is within Circle 2.
+Would you like to enter another set (Y/N)? N will exit the program. : Y
+Enter the coordinates of the first circle. Type it like this -> X Y : 5 5
+Enter the radius of the first circle: 5
+Enter the coordinates of the second circle. Type it like this -> X Y : 5 5
+Enter the radius of the second circle: 1
+Circle 1: (5.000000, 5.000000) R = 5.000000
+Circle 2: (5.000000, 5.000000) R = 1.000000
+Distance = 0.000000
+Circle 2 is within Circle 1.
+Would you like to enter another set (Y/N)? N will exit the program. : Y
+Enter the coordinates of the first circle. Type it like this -> X Y : 3 5
+Enter the radius of the first circle: 2
+Enter the coordinates of the second circle. Type it like this -> X Y : 5 5
+Enter the radius of the second circle: 3
+Circle 1: (3.000000, 5.000000) R = 2.000000
+Circle 2: (5.000000, 5.000000) R = 3.000000
+Distance = 2.000000
+The circles are overlapping each other.
+Would you like to enter another set (Y/N)? N will exit the program. : N
+
+Process finished with exit code 0
