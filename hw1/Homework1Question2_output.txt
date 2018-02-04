@@ -1,0 +1,21 @@
+Enter the radius of the circle to find the area: 1
+A circle with a radius of 1.000000 has an area of 3.141593
+
+Enter the radius of the circle to find the area: 2
+A circle with a radius of 2.000000 has an area of 12.566371
+
+Enter the radius of the circle to find the area: 3
+A circle with a radius of 3.000000 has an area of 28.274334
+
+Enter the radius of the circle to find the area: 5
+A circle with a radius of 5.000000 has an area of 78.539816
+
+Enter the radius of the circle to find the area: 20
+A circle with a radius of 20.000000 has an area of 1256.637061
+
+Enter the radius of the circle to find the area: 100
+A circle with a radius of 100.000000 has an area of 31415.926536
+
+Enter the radius of the circle to find the area: ^D
+
+Process finished with exit code 0
