@@ -1,0 +1,30 @@
+Enter the coordinates of point A. Type it like this -> X Y : 2 3
+Enter the coordinates of point B. Type it like this -> X Y : 4 5
+Enter the coordinates of point C. Type it like this -> X Y : 7 8
+Point A = (2.000000, 3.000000), Point B = (4.000000, 5.000000), Point C = (7.000000, 8.000000)
+[DISTANCE] AB = 2.828427, BC = 4.242641, AC = 7.071068
+The triangle is real!
+Would you like to enter another set of coordinates (Y/N)? N will exit the program. : Y
+Enter the coordinates of point A. Type it like this -> X Y : 5 10
+Enter the coordinates of point B. Type it like this -> X Y : 15 30
+Enter the coordinates of point C. Type it like this -> X Y : 4 8
+Point A = (5.000000, 10.000000), Point B = (15.000000, 30.000000), Point C = (4.000000, 8.000000)
+[DISTANCE] AB = 22.360680, BC = 24.596748, AC = 2.236068
+The triangle is real!
+Would you like to enter another set of coordinates (Y/N)? N will exit the program. : Y
+Enter the coordinates of point A. Type it like this -> X Y : 5 7
+Enter the coordinates of point B. Type it like this -> X Y : 2 8
+Enter the coordinates of point C. Type it like this -> X Y : 4 6
+Point A = (5.000000, 7.000000), Point B = (2.000000, 8.000000), Point C = (4.000000, 6.000000)
+[DISTANCE] AB = 3.162278, BC = 2.828427, AC = 1.414214
+The triangle is real!
+Would you like to enter another set of coordinates (Y/N)? N will exit the program. : Y
+Enter the coordinates of point A. Type it like this -> X Y : 3 3
+Enter the coordinates of point B. Type it like this -> X Y : 3 3
+Enter the coordinates of point C. Type it like this -> X Y : 3 3
+Point A = (3.000000, 3.000000), Point B = (3.000000, 3.000000), Point C = (3.000000, 3.000000)
+[DISTANCE] AB = 0.000000, BC = 0.000000, AC = 0.000000
+The triangle is fake!
+Would you like to enter another set of coordinates (Y/N)? N will exit the program. : N
+
+Process finished with exit code 0
