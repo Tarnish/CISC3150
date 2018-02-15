@@ -1,9 +1,0 @@
-Enter a list of items that are separated by a comma ',' : mandy,randy,hank,bob,peggy,tim,steven,bob,
-mandy
-randy
-hank
-bob
-peggy
-tim
-steven
-bob
