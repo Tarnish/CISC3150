@@ -1,0 +1,19 @@
+Enter a string: Apple
+MyString = Apple
+Length = 5
+Enter index of string (0 -> 4) : 4
+Index (4) = e
+Enter indexes of submitted string to get substring (Apple) (0 -> 4) Format : (Begin# End#): 0 3
+Substring = Appl
+String Uppercase = : APPLE
+String Lowercase = : apple
+#1 Enter a string to compare to your original string (Apple) : pple
+Compare to output = -47
+#2 Enter a string to compare to your original string (Apple) : Applz
+Compare to output = -21
+#3 Enter a string to compare to your original string (Apple) : Apple
+Compare to output = 0
+Enter an integer to convert : 32768
+Converted to : 32768
+
+Process finished with exit code 0
