@@ -1,0 +1,103 @@
+How many rows in your 2d array : 3
+Length of row [0] : 2
+Values of array [0] (separate with spaces) : a b
+Length of row [1] : 2
+Values of array [1] (separate with spaces) : c d
+Length of row [2] : 2
+Values of array [2] (separate with spaces) : e f
+Max output = 8
+ace
+acf
+ade
+adf
+bce
+bcf
+bde
+bdf
+
+Process finished with exit code 0
+
+How many rows in your 2d array : 4
+Length of row [0] : 3
+Values of array [0] (separate with spaces) : a b c
+Length of row [1] : 4
+Values of array [1] (separate with spaces) : d e f g
+Length of row [2] : 2
+Values of array [2] (separate with spaces) : h i
+Length of row [3] : 3
+Values of array [3] (separate with spaces) : j k #
+Max output = 72
+adhj
+adhk
+adh#
+adij
+adik
+adi#
+aehj
+aehk
+aeh#
+aeij
+aeik
+aei#
+afhj
+afhk
+afh#
+afij
+afik
+afi#
+aghj
+aghk
+agh#
+agij
+agik
+agi#
+bdhj
+bdhk
+bdh#
+bdij
+bdik
+bdi#
+behj
+behk
+beh#
+beij
+beik
+bei#
+bfhj
+bfhk
+bfh#
+bfij
+bfik
+bfi#
+bghj
+bghk
+bgh#
+bgij
+bgik
+bgi#
+cdhj
+cdhk
+cdh#
+cdij
+cdik
+cdi#
+cehj
+cehk
+ceh#
+ceij
+ceik
+cei#
+cfhj
+cfhk
+cfh#
+cfij
+cfik
+cfi#
+cghj
+cghk
+cgh#
+cgij
+cgik
+cgi#
+
+Process finished with exit code 0
