@@ -1,0 +1,11 @@
+Enter radius of circle: 4
+User entered radius = 4.000000
+Quadrant area = 16.000000
+Circle area = 12.566371
+Ratio 1 = 0.785398
+p = 3.141593
+Computed dots inside circle = 3141547809
+Computed dots outside circle = 858452191
+Post Ratio = 0.785387
+Post p = 3.141548
+2655661

@@ -1,0 +1,35 @@
+a) Output: Woof, woof, woof!
+   Reasoning: Creates an object of the dog class and runs the method 'call'. This runs a for loop that prints 'woof' then loops 3 times and adds an '!' at the end.
+   Using: Overloading
+
+b) Output: I'm a cat, go away!
+   Reasoning: Uses the 'toString' method from cat to print above.
+   Using: Polymorphism / Overriding
+
+c) Output: Error.
+   Reasoning: Object being created doesn't have the method 'call'.
+   Using: N/A
+
+d) Output: Pet@15db9742
+   Reasoning: Method from object is called, printing its address.
+   Using: Polymorphism
+
+e) Output: woof!
+   Reasoning: Creates object which uses 'Dog' class method 'call' to print statement.
+   Using: Polymorphism
+
+f) Output: Come here, kitty? ... Don't waste my time.
+   Reasoning: Creates object using 'Cat' class and runs the 'toString' method with a passed string value. The method returns the combination which is then printed.
+   Using: Overloading
+
+g) Output: Error.
+   Reasoning: Creates object using 'Cat' class and runs the 'call' method while passing an integer. An error is printed because the method used doesn't accept any parameters.
+   Using: N/A
+
+h) Output: four
+   Reasoning: Creates object using 'Dog' class and runs the 'feet' method from the 'Pet' class that it extends from. The method returns a string which is printed.
+   Using: Polymorphism
+
+i) Output: Error.
+   Reasoning: Creates object and calls 'call' method with a passed integer value. An error is printed because the method doesn't accept any parameters/exist.
+   Using: N/A
