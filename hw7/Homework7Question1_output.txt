@@ -1,0 +1,42 @@
+Input was: 2 + 3
+5.0
+
+Process finished with exit code 0
+
+Input was: 2 + 3 + +
+[ERROR] : Expected a number but found : +
+
+Process finished with exit code 0
+
+Input was: 2 + 3 3
+[ERROR] : Expected an operand ( ) * / % + -  but found : 3
+
+Process finished with exit code 0
+
+[ERROR] : No input detected!
+
+Process finished with exit code 0
+
+[ERROR] : Too much input detected!
+
+Process finished with exit code 0
+
+Input was: 3 * 5 + 3 / 3
+16.0
+
+Process finished with exit code 0
+
+Input was: 3 * 5.5 + 3 / 3
+17.5
+
+Process finished with exit code 0
+
+Input was: 3 * 5.5 # 3 / 3
+[ERROR] : Expected an operand ( ) * / % + -  but found : #
+
+Process finished with exit code 0
+
+Input was: 3 * 5.5 + 3 / 0
+[ERROR] : Cannot divide by 0
+
+Process finished with exit code 0
