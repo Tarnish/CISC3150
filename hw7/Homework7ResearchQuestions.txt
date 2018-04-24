@@ -1,0 +1,19 @@
+Question 1: If you were to throw a checked exception the code would fail to compile.
+It doesn't fail to compile as written because it's an unchecked exception which
+doesn't display a compilation error since it isn't checked at compile time.
+
+Question 2:
+You're able to call the default implementation of a method in an interface
+with that syntax because you are calling the interface method with super().
+You are invoking the super method which runs a chain up and overrides, causing
+the print message to display.
+
+
+Q1 References = https://beginnersbook.com/2013/04/java-checked-unchecked-exceptions-with-examples/
+		https://stackoverflow.com/questions/23650854/why-are-unchecked-exceptions-not-checked-by-java-compiler
+		https://softwareengineering.stackexchange.com/questions/121328/is-it-good-practice-to-catch-a-checked-exception-and-throw-a-runtimeexception
+
+Q2 References = https://stackoverflow.com/questions/24273694/can-you-call-the-parent-interfaces-default-method-from-an-interface-that-subcla
+		https://stackoverflow.com/questions/19976487/explicitly-calling-a-default-method-in-java/19976615
+		
+
